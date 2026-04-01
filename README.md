@@ -23,27 +23,31 @@ Textbook Code Practice
 
 교재의 핵심 단계를 바탕으로 주헌님의 학습 진도를 관리해 보세요.
 
-## PART 1: 딥러닝 준비
-[ ] Chapter 1: 머신러닝 및 딥러닝 개요
+## PART 1: 기초편
+[ ] Chapter 1: 딥러닝에 꼭 필요한 파이썬의 개념
 
-[ ] Chapter 2: 파이토치 기본 조작 (Tensor, 역전파)
+[ ] Chapter 2: 파이토치의 기본 기능
 
-[ ] Chapter 3: 미분과 경사 하강법의 원리
+[ ] Chapter 3: 처음 시작하는 머신러닝
 
+[ ] Chapter 4: 예측 함수 정의하기
 
-## PART 2: 파이토치 기본 (선형 회귀/로지스틱 회귀)
+## PART 2: 실전편 1
 
-[ ] Chapter 4: 선형 회귀 모델 구현
+[ ] Chapter 5: 선형 회귀
 
-[ ] Chapter 5: 로지스틱 회귀 (이진 분류)
+[ ] Chapter 6: 이진 분류
 
-[ ] Chapter 6: 다중 분류 (Softmax)
+[ ] Chapter 7: 다중 분류
 
+[ ] Chapter 8: MNIST를 활용한 숫자 인식
 
-## PART 3: 본격적인 딥러닝 실습
+## PART 3: 실전편 2
 
-[ ] Chapter 7: 다층 퍼셉트론 (MLP)
+[ ] Chapter 9: CNN을 활용한 이미지 인식
 
-[ ] Chapter 8: 이미지 분류와 CNN (합성곱 신경망)
+[ ] Chapter 10: 튜닝 기법
 
-[ ] Chapter 9: 전이 학습 (Transfer Learning)
+[ ] Chapter 11: 사전 학습 모델 활용하기
+
+[ ] Chapter 12: 사용자 정의 데이터를 활용한 이미지 분류
