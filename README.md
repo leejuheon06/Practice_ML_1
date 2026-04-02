@@ -24,9 +24,9 @@ Textbook Code Practice
 교재의 핵심 단계를 바탕으로 주헌님의 학습 진도를 관리해 보세요.
 
 ## PART 1: 기초편
-[ ] Chapter 1: 딥러닝에 꼭 필요한 파이썬의 개념
+[√] Chapter 1: 딥러닝에 꼭 필요한 파이썬의 개념
 
-[ ] Chapter 2: 파이토치의 기본 기능
+[√] Chapter 2: 파이토치의 기본 기능
 
 [ ] Chapter 3: 처음 시작하는 머신러닝
 
