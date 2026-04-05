@@ -28,9 +28,9 @@ Textbook Code Practice
 
 [√] Chapter 2: 파이토치의 기본 기능
 
-[ ] Chapter 3: 처음 시작하는 머신러닝
+[√] Chapter 3: 처음 시작하는 머신러닝
 
-[ ] Chapter 4: 예측 함수 정의하기
+[√] Chapter 4: 예측 함수 정의하기
 
 ## PART 2: 실전편 1
 
