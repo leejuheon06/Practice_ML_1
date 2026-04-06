@@ -50,4 +50,4 @@ Textbook Code Practice
 
 [ ] Chapter 11: 사전 학습 모델 활용하기
 
-[ ] Chapter 12: 사용자 정의 데이터를 활용한 이미지 분류
+[√] Chapter 12: 사용자 정의 데이터를 활용한 이미지 분류
