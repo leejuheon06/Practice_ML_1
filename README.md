@@ -34,7 +34,7 @@ Textbook Code Practice
 
 ## PART 2: 실전편 1
 
-[ ] Chapter 5: 선형 회귀
+[√] Chapter 5: 선형 회귀
 
 [ ] Chapter 6: 이진 분류
 
