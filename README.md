@@ -36,7 +36,7 @@ Textbook Code Practice
 
 [√] Chapter 5: 선형 회귀
 
-[ ] Chapter 6: 이진 분류
+[√] Chapter 6: 이진 분류
 
 [ ] Chapter 7: 다중 분류
 
