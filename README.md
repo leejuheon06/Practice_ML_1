@@ -38,7 +38,7 @@ Textbook Code Practice
 
 [√] Chapter 6: 이진 분류
 
-[ ] Chapter 7: 다중 분류
+[√] Chapter 7: 다중 분류
 
 [ ] Chapter 8: MNIST를 활용한 숫자 인식
 
