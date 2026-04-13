@@ -40,7 +40,7 @@ Textbook Code Practice
 
 [√] Chapter 7: 다중 분류
 
-[ ] Chapter 8: MNIST를 활용한 숫자 인식
+[√] Chapter 8: MNIST를 활용한 숫자 인식
 
 ## PART 3: 실전편 2
 
