@@ -44,7 +44,7 @@ Textbook Code Practice
 
 ## PART 3: 실전편 2
 
-[ ] Chapter 9: CNN을 활용한 이미지 인식
+[√] Chapter 9: CNN을 활용한 이미지 인식
 
 [ ] Chapter 10: 튜닝 기법
 
