@@ -46,7 +46,7 @@ Textbook Code Practice
 
 [√] Chapter 9: CNN을 활용한 이미지 인식
 
-[ ] Chapter 10: 튜닝 기법
+[√] Chapter 10: 튜닝 기법
 
 [ ] Chapter 11: 사전 학습 모델 활용하기
 
